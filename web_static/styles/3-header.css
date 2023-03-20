@@ -6,8 +6,11 @@ header {
 	display: flex;
 	align-items: center;
 }
-header img{
+#logo{
 	position: absolute;
 	left: 20px;
+	width: 142px;
+	height: 60px;
+	background: url("../images/logo.png");
 }
 
