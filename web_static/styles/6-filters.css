@@ -65,7 +65,14 @@
 	margin-left: 39px;
 }
 
-
+.amenities .popover{
+	padding-top: 15px;
+}
+.amenities .popover p{
+	margin-top: 7px;
+	margin-left: 25px;
+	font-weight: 700;
+}
 .locations{
 	border-right: 1px #DDDDDD solid;
 }
